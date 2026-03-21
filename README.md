@@ -10,4 +10,3 @@
 
 <sub>🔗 [github.com/erin4ei](https://github.com/erin4ei) · [linkedin.com/in/erin-igpit](https://www.linkedin.com/in/erin-igpit/) · [behance.net/adrienneigpit](https://www.behance.net/adrienneigpit)</sub>
 
-<sub> [![github stats](https://github-readme-stats.vercel.app/api?username=erin4ei&show_icons=true&hide=contribs,prs&title_color=E61B43&icon_color=E61B43&text_color=555&bg_color=ffffff00&hide_border=true)](https://github.com/erin4ei)</sub>
