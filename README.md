@@ -17,6 +17,8 @@
   </g>
 </svg>
 
+web developer with over four years of experience
+building maintainable, adaptable full-stack systems.
 
 <strong>⚔️ currently exploring :</strong> vue · wordpress
 
