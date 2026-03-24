@@ -29,3 +29,5 @@
 <sub><strong>Tools</strong> Notion · VS Code · GitHub Desktop · SSMS</sub>
 
 <sub>🔗 [github.com/erin4ei](https://github.com/erin4ei) · [linkedin.com/in/erin-igpit](https://www.linkedin.com/in/erin-igpit/) · [behance.net/adrienneigpit](https://www.behance.net/adrienneigpit)</sub>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erin4ei&show_icons=true&title_color=E40241&icon_color=E40241&text_color=FFFFFF&bg_color=00000000&hide_border=true&border_radius=10)
